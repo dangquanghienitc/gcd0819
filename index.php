@@ -6,11 +6,7 @@
 	</head>
 	<body>
 		<?php
-		$name = "Luong Son Ba";
-		$age = 25;
-		$courses = array("ComputerNetwork","NetworkSecurity","CloudComputing");
-		echo 	"Name: " . $name . ", age: ".$age .
-			"<br/>3rd course is: " . $courses[2];
+		echo "Hello World";
 		?>
 	</body>
 </html>
